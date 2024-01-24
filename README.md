@@ -6,6 +6,6 @@ I'm a passionate Frontend Developer with expertise in Next.js, React, HTML, CSS,
 - 🌱 I’m continuously learning and exploring new technologies to stay at the forefront of web development.
 - 💼 I'm open to collaborating on interesting web development projects. Let's create something amazing together!
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/fathima-rizmiya/). I'm always up for a chat or to discuss potential collaborations.
-- 🌐 Explore my portfolio site: [YourPortfolioSite.com](https://rizmiya-portfolio.vercel.app/)
+- 🌐 Explore my [Portfolio site](https://rizmiya-portfolio.vercel.app/)
 
 Feel free to explore my GitHub repositories to see some of my recent work. If you have any questions or suggestions, don't hesitate to get in touch!
