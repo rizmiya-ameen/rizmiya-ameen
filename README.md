@@ -1,11 +1,21 @@
-### Hi there, I'm Rizmiya Ameen! 👋
+# Hi there, I'm Rizmiya Ameen! 👋
 
-I'm a passionate Frontend Developer with expertise in Next.js, React, HTML, CSS, Tailwind, and Node.js. I love building user-friendly and visually appealing web applications. Here's a bit more about me:
+**MSc in Artificial Intelligence**· Building practical AI applications with LLMs, AI agents, and machine learning.
 
-- 🔭 I’m currently working on exciting Next.js, React.js projects that showcase my frontend skills.
-- 🌱 I’m continuously learning and exploring new technologies to stay at the forefront of web development.
-- 💼 I'm open to collaborating on interesting web development projects. Let's create something amazing together!
-- 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/fathima-rizmiya/). I'm always up for a chat or to discuss potential collaborations.
-- 🌐 Explore my [Portfolio](https://rizmiya.com/)
+💼 Open to **AI/ML Engineer and Data Science roles**, as well as interesting collaborations.
 
-Feel free to explore my GitHub repositories to see some of my recent work. If you have any questions or suggestions, don't hesitate to get in touch!
+- 🤖 Currently building AI/ML projects, including AI agents and forecasting applications.
+- 🧠 Interested in Machine Learning, Generative AI, LLMs, RAG, NLP, and Explainable AI.
+- 💻 Background in frontend development with Next.js, React, Tailwind CSS, and JavaScript.
+- 🌱 Always learning, experimenting, and building with new AI/ML technologies.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/fathima-rizmiya/)
+- 🌐 Check out my [Portfolio](https://rizmiya.com/)
+
+## 🛠️ Tech
+
+**AI / ML:** Python · PyTorch · Scikit-learn · Machine Learning · Deep Learning · Graph Neural Networks (GNNs) · NLP · Explainable AI (XAI) · Time-Series Forecasting
+**GenAI:** LLMs · RAG · LangChain · AI Agents · Gemini
+**Data:** Pandas · NumPy · Matplotlib · Power BI
+**Web:** FastAPI · Next.js · React · Tailwind CSS · JavaScript
+
+Feel free to explore my repositories to see what I've been working on.
